@@ -12,7 +12,8 @@
 
 - 📫 Reach me: pactol.vonn@gmail.com
   
-- 💻 Solving LeetCode problems on my spare time
+- 💻 Solving ![Leet Code](https://leetcode.com/u/sharproyalz/) problems on my spare time
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sharproyalz&theme=dark&card_height=100)](https://git.io/streak-stats)
