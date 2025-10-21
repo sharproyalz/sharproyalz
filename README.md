@@ -2,13 +2,9 @@
 
 <h3 align="center">I am a Web developer, Nice to see you 😄</h3>
 
-- 🎓 Graduating Student
-  
-- 🔭 Currently looking for a Web Developer job
+- 💼 Working as Assistant Software Engineer at KHI Design and Technical Service, Inc.
   
 - 🌱 Learning Data Structures and Algorithm
-
-- 🎮 Learning Game Development soon
 
 - 📫 Reach me: pactol.vonn@gmail.com
   
